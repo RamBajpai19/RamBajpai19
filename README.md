@@ -11,12 +11,19 @@ I love solving real-world problems using AI, LLMs, and cloud technologies — es
 
 
 ## 🛠️ Tech Stack
+
 **AI & Machine Learning:** Agentic AI, Generative AI, Large Language Models (LLMs), Prompt Engineering & Optimization, RAG (Retrieval-Augmented Generation), Semantic Kernel, LangChain, LangGraph, AutoGen, Multi-Agent Systems, Embeddings, Vector Databases, Fine-Tuning.
+
 **Cloud & AI Platforms:** Microsoft Azure, Azure AI Services, Azure AI Search, Azure AI Foundry, Azure OpenAI, Azure Cognitive Services (Computer Vision, Document Intelligence, Text Analytics, Speech, Translator), Azure Blob Storage.
+
 **Programming & Backend:** Python, C#, .NET Core, ASP.NET Core MVC, Web API & RESTful Services, SQL, LINQ, Entity Framework Core, Microservices, SOLID Principles, Clean Architecture
+
 **Deployment & DevOps:**  Azure Functions, Azure App Service, IIS Server, Azure DevOps
+
 **Databases & Storage:** Microsoft SQL Server, Azure SQL Database, Blob, Vector Databases (Azure AI Search, FAISS, Qdrant).
+
 **Security & Identity:** Azure AD, JWT Tokens, Role-Based Access Control (RBAC).
+
 **Tools & DevOps:** Visual Studio, VS Code, Postman, Git, GitHub, Postman.
 
 
